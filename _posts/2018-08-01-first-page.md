@@ -2,7 +2,7 @@
 layout: post
 title:  "Parametric instabilities in Bosonic Floquet systems"
 author: Thomas
-categories: [ Jekyll, tutorial ]
+categories: [ Cold Atoms, Bosonic lattices, Floquet systems ]
 image: assets/images/Illustration1.jpg
 featured: true
 hidden: true
