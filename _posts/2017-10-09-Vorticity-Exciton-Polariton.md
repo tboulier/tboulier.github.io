@@ -3,7 +3,7 @@ layout: post
 title:  "Vorticity in exciton-polariton superfluids"
 author: Thomas
 categories: [ Interacting Bosonic systems, Exciton-polariton ]
-image: assets/images/16.jpg
+image: assets/images/Vortices.jpg
 featured: false
 hidden: false
 ---
