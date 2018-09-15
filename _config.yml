@@ -2,7 +2,8 @@
 name: "Thomas Boulier"
 description: "PhD"
 meta_description: "Welcome to my page!"
-logo: 'assets/images/me.jpeg'
+logo: 'assets/images/logo2.jpeg'
+me: 'assets/images/me.jpeg'
 favicon: 'assets/images/logo2.jpeg'
 baseurl: /
 #google_analytics: 'UA-46278016-1'
