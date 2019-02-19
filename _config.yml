@@ -3,7 +3,7 @@ name: "Thomas Boulier, PhD"
 description: "Experimental Quantum Physicist"
 intro: "Hi, welcome! I'm a researcher in experimental quantum physics. I focus on exploring systems of many bosonic particles in strong interaction. I've worked with two types of systems: Exciton-polaritons in semiconductors, and ultra-cold atoms in optical lattices. I currently work in the team led by Antoine Browaeys, in the quantum optics group of Institut d'Optique, Palaiseau, France, on arrays of cold Rydberg atoms."
 meta_description: "Welcome to my page!"
-logo: 'assets/images/Manip-LKB2.jpg'
+logo: 'assets/images/panda.jpg'
 me: 'assets/images/me.jpg'
 favicon: 'assets/images/panda.jpg'
 baseurl: /
