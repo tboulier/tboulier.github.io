@@ -19,5 +19,6 @@ However, it is possible to discretize the polaritonic modes by lateral confineme
 In collaboration with the group of Jacqueline Bloch and Alberto Amo at C2N, we developed narrow pillars (2.5 μm in diameter and a height of 10 μm).
 
 The addition of several enhancements such as an asymmetry in the optical cavity, a larger number of quantum wells, and the use of a large photonic fraction (75%) resulted in a new intensity compression record (~ 36%) for this type of system.
-The paper is available in open-access at [Nature Communications 5, 3260, (2014)](https://www.nature.com/articles/ncomms4260). 
+
+Our paper is available in open-access at [Nature Communications 5, 3260, (2014)](https://www.nature.com/articles/ncomms4260). 
 The all-semiconductor composition of this new source, its small size, and its low power requirement make it an interesting proof of principle for future quantum technologies.
