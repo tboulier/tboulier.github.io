@@ -14,7 +14,7 @@ However, the electron can only remain for a limited time in the excited state: i
 While this limitation is manageable for a few interacting Rydberg atoms (say, a few dozens), complex phenomena can arise between many strongly interacting atoms.
 
 In particular, we recently observed an extremely large *dephasing* in large Rydberg ensembles. Due to the dissipative nature of the system, this is equivalent to a loss of coherence. 
-In a [first paper](Phys. Rev. Lett. 116, 113001 (2016)) (pre-print [here](https://arxiv.org/pdf/1510.08710.pdf)), we highlight the existance of this mecanism and point out its prevalence in many large Rydberg system. 
+In a [first paper](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.97.023424) (pre-print [here](https://arxiv.org/pdf/1510.08710.pdf)), we highlight the existance of this mecanism and point out its prevalence in many large Rydberg system. 
 This process is therefore becoming important to consider as current quantum simulation experiments aim at scaling up the number of interacting atoms. 
 However much of this complex dephasing effect is still unknown: How ubiquitous is it? What are the exact dynamics? What are its relevant timescales? How can we model it? Can we mitigate or control it? 
 Our work is a first effort to answer these questions.
