@@ -9,9 +9,9 @@ hidden: false
 
 As a hobby, I also enjoy spending some night under a beautiful dark sky. 
 
-I use an old 8" Schmidt–Cassegrain telescope on a motorized German mount(Celestron C8 S-GT), a simple DSRL (Canon 650D), and some long-learned voodoo to make pictures of my favorite objects.
+I use an old 8" [Schmidt–Cassegrain](https://en.wikipedia.org/wiki/Schmidt%E2%80%93Cassegrain_telescope) telescope on a motorized German mount (Celestron C8 S-GT), a simple DSRL (Canon 650D), and some long-learned voodoo to make pictures of my favorite objects.
 
-My best pictures are on my [Astrobin page](https://www.astrobin.com/users/AstroPanda/). Here are a few more:
+Some of my best pictures are on my [Astrobin page](https://www.astrobin.com/users/AstroPanda/). Here are a few more:
 
 ![Cygnus' Veil Nebula](/assets/images/Dentelles.jpg "NGC6960")
 
