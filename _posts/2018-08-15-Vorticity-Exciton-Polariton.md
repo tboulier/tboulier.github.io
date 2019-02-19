@@ -13,7 +13,7 @@ In our work with Alberto Bramati at LKB, we used exciton-polaritons to generate 
 Since polaritons have a short lifetime, many questions remain open: is the angular momentum conserved? Can a large angular momentum spontaneously break down into individual quanta?
 How long does the angular momentun survives?
 
-In a series of studies, we tackle some of these questions. We show that vortex lattices can arise from the superfluid flow ([Phys. Rev. B 89, 134501 (2014)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.89.134501), [preprint](https://arxiv.org/pdf/1404.1186)), 
+In a series of studies, we tackle some of these questions. We show that vortex lattices can arise from the superfluid flow ([Phys. Rev. B 89, 134501 (2014)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.89.134501), [pre-print](https://arxiv.org/pdf/1404.1186)), 
 that angular momentum can be injected by careful engineering of the superfluid flow ([Phys. Rev. Lett. 116, 116402 (2016)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.116402), [pre-print](https://arxiv.org/pdf/1509.02680)), 
 and that patterns of elementary vortices of the same sign can be engineered with light-shaping technologies ([Sci. Rep. 5, 9230 (2015)](https://www.nature.com/articles/srep09230)).
 
