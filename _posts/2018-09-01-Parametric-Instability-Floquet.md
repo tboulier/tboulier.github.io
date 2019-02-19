@@ -23,9 +23,8 @@ Several shake trajectories were tested, such as along one lattice axis, along th
 In the presence of the drive, the Bogoliubov spectrum can become unstable, whereby density modulations spontaneously grow and deplete the condensate. 
 We studied the condensate lifetime to characterize this instability. Under most conditions, the observed heating follows the theoretical predictions, except for a narrow parameter range where we observe giant decay rates, which were not anticipated.
 
-A simultaneous experiment by our colleagues from the group of Dr. Monika Aidelsburger at LMU/MPQ, Munich, confirms and complements our work. 
-They study the case of a 1D lattice, and observe directly the growth of the unstable modes' population to characterise the parametric unstability. 
-Their work is available here: https://arxiv.org/pdf/1808.07462
+[A simultaneous experiment](https://arxiv.org/pdf/1808.07462) by our colleagues from the group of Dr. Monika Aidelsburger at LMU/MPQ, Munich, confirms and complements our work. 
+They study the case of a 1D lattice, and observe directly the growth of the unstable modes' population to characterise the parametric unstability.
 
 Future work will investigate the unexpected super-instability to better inform our theoretical understanding. 
 Another research path is the possibility of suppressing the instability at high shake frequency when confining the system to limit the density of states (3D lattices).

@@ -3,7 +3,7 @@ layout: post
 title:  "What is an exciton-polariton?"
 author: Thomas
 categories: [ Interacting Bosonic systems, Exciton-polariton ]
-image: assets/images/3.jpg
+image: assets/images/EP.png
 featured: false
 hidden: false
 ---
