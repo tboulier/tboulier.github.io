@@ -3,7 +3,7 @@ layout: post
 title:  "Astrophotography"
 author: Thomas
 categories: [ Hobby, Astronomy, Photography ]
-image: assets/images/Saturn.bmp
+image: assets/images/SaturnAndSatellites.jpg
 hidden: false
 ---
 
