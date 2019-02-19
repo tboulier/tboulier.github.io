@@ -19,7 +19,8 @@ However much of this complex dephasing effect is still unknown: How ubiquitous i
 Our work is a first effort to answer these questions.
 
 In subsequent articles, we explored the dephasing mecanism in more details. The work described in [Phys. Rev. A 97.2 023424 (2018)] (available at https://arxiv.org/pdf/1710.01752.pdf) analyses the complex competition between blockade and antiblockade in these systems, an important feature for modelling the quantum collective behavior. 
+
 In [Phys. Rev. A 96.5, 053409 (2017)] (available at https://arxiv.org/pdf/1709.02460.pdf ), we look at how distinct Rydberg (hyperfine) populations indirectly induce decoherence on each other, to experimentally refine our understanding of the dynamics involved.
 At early times, we found an avalanche-like mecanism makes the dephasing grows rapidly under continuous excitation. This explains why the observed dephasing is extremely fast. 
-We also discuss several approaches to circumvent these effects. We conclude that, while challenging, they can be mitigated.
+We also discuss several approaches to circumvent these effects. We conclude that, while challenging, they can be mitigated. This is good news :)
  

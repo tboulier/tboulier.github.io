@@ -13,9 +13,10 @@ In our work with Alberto Bramati at LKB, we used exciton-polaritons – the boso
 Since polaritons have a short lifetime, many questions remain open: is the angular momentum conserved? Can a large angular momentum spontaneously break down into individual quanta?
 How long does the angular momentun survives?
 
-In a series of studies, we tackle some of these questions. We show that vortex lattices can arise from the superfluid flow ( https://arxiv.org/pdf/1404.1186 ), 
-that angular momentum can be injected by careful engineering of the superfluid flow ( https://arxiv.org/pdf/1509.02680 ), 
-and that patterns of elementary vortices of the same sign can be engineered with light-shaping technologies ( https://www.nature.com/articles/srep09230 ).
+In a series of studies, we tackle some of these questions. We show that vortex lattices can arise from the superfluid flow ([Phys. Rev. B 89, 134501 (2014)], https://arxiv.org/pdf/1404.1186 ), 
+that angular momentum can be injected by careful engineering of the superfluid flow ([Phys. Rev. Lett. 116, 116402 (2016)], https://arxiv.org/pdf/1509.02680 ), 
+and that patterns of elementary vortices of the same sign can be engineered with light-shaping technologies ([Sci. Rep. 5, 9230 (2015)], https://www.nature.com/articles/srep09230 ).
 
-The body for work shows that at high polariton density the strong nonlinear polariton-polariton repulsion completely dominate the behaviour of the system, that can be described as a 2D quantum fluid. 
-Strong interaction between photons drives a transition between optics and hydrodynamics!
+This body for work shows that, at high polariton density, the strong nonlinear polariton-polariton repulsion completely dominates the behaviour of the system. 
+In turn, this makes the system well described as a 2D superfluid, while without interactions the system is descibed by linear interferences (coherent optics).
+Interactions between many photons therefore drive a transition between quanum optics and quantum hydrodynamics!
