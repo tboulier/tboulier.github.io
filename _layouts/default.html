@@ -8,7 +8,10 @@
     
 <title>{{ page.title }} | {{site.name}}</title>
     
-{% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %} 
+{% if page.description %}
+<meta name="description" content="{{ page.description }}">
+<meta name="intro" content="{{ page.intro }}">
+{% endif %} 
     
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
     
@@ -65,7 +68,7 @@
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
+                <a class="nav-link" href="{{ site.baseurl }}/index.html"><i class="fas fa-atom"></i>Blog</a>
                 </li>
                 
                 {% if page.url == "/about.html" %}
@@ -73,7 +76,7 @@
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/CV.pdf">CV</a>
+                <a class="nav-link" href="{{ site.baseurl }}/CV.pdf"><i class="fas fa-file-download"></i>CV</a>
                 </li>
 				
 				 {% if page.url == "/CV.pdf" %}
@@ -83,11 +86,11 @@
                 {% endif %}
 				<a class="nav-link" content="" href="https://orcid.org/0000-0002-7886-5624" target="orcid.widget" rel="noopener noreferrer"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">ORCiD</a>
                 </li>
-				<!--style="vertical-align:top;"
+				<!-- style="vertical-align:top;" -->
 				
-                <!-- <li class="nav-item"> -->
-                <!-- <a class="nav-link" href="https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip"><i class="fas fa-download"></i> Jekyll Version</a> -->
-                <!-- </li> -->
+                <li class="nav-item">
+                <a class="nav-link" href="https://scholar.google.com/citations?user=QNksYOEAAAAJ&hl=en"><i class="fab fa-google"></i> Scholar Profile</a>
+                </li>
                 
                 <!-- <li class="nav-item"> -->
                 <!-- <a target="_blank" class="nav-link" href="https://www.wowthemes.net/themes/mediumish-wordpress/"><i class="fab fa-wordpress-simple"></i> WP Version</a> -->
@@ -97,9 +100,9 @@
                 <!-- <a target="_blank" class="nav-link" href="https://www.wowthemes.net/themes/mediumish-ghost/"><i class="fab fa-snapchat-ghost"></i> Ghost Version</a> -->
                 <!-- </li> -->
 
-                <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://www.facebook.com/bouliert/"><i class="fab fa-facebook-f"></i></a>
-                </li>
+                <!-- <li class="nav-item"> -->
+                <!-- <a target="_blank" class="nav-link" href="https://www.facebook.com/bouliert/"><i class="fab fa-facebook-f"></i></a> -->
+                <!-- </li> -->
                 
             </ul>		
   

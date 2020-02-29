@@ -4,7 +4,7 @@ title: CV
 comments: False
 ---
 
-*Publication list and early scientific achievements*
+*Publication list and early scientific achievements - Updated 28/02/20*
 
 I published 13 peer-reviewed research articles in international journals, including 1 Nature Physics, 1 Nature Communications, 1 Physical Review X and 3 Physical Review Letters. As of early 2020, they total 266 citations according to Scorpus, giving an h-index of 8, while Google Scholar lists 423 citations, giving an h-index of 10. Half (6) are published as 1st author, 6 without my PhD supervisor, and 1 as a senior scientist.
 
