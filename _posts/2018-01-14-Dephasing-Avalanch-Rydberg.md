@@ -20,3 +20,5 @@ In a first paper ( https://arxiv.org/pdf/1510.08710.pdf ), we highlight the exis
 
 Subsequent articles explore the dephasing mecanism in more details. The work described in https://arxiv.org/pdf/1710.01752.pdf analyses the complex competition between blockade and antiblockade in these systems, an important feature for modelling the collective behavior.
 In https://arxiv.org/pdf/1709.02460.pdf , we look at how distinct Rydberg (hyperfine) populations indirectly induce decoherence on each other. We also experimentally refine our understanding of the dynamics involved, and discuss several approaches to circumvent these effects and find that, while challenging, they can be mitigated.
+
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 701034.
