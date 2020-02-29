@@ -11,6 +11,7 @@ hidden: true
 Engineering complex quantum states requires controlling coherent interactions between several subsystems. Atoms with a highly excited electron, called Rydberg atoms, offer both strong and controlled interactions, due to their giant polarizablity.
 They therefore represent a promissing pathway to quantum-coherent contol. However, the electron can only remain for a limited time in the excited state; while this limitation is manageable for a few interacting Rydberg atoms (say, a few dozens), complex phenomena can arise between many strongly interacting atoms.
 This configuration is typical of experiments aiming at achieving quantum simulation with cold atoms.
+
 In particular, we recently observed an extremely large dephasing (effective loss of coherence) in large Rydberg ensembles. It has the property of accelerating at early time under continuous excitation, making the observed dephasing very fast.
 This is therefore important to consider in current and future experiments, and needs to be understood. However much of this complex effect is still unknown: How ubiquitous is it? 
 What are the exact dynamics? What are its relevant timescales? How can we model it? Can we mitigate or control it? What is the system size limit?
