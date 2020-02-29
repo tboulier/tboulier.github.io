@@ -4,55 +4,54 @@ title: CV
 comments: False
 ---
 
-*Publication list and early scientific achievements - Updated 28/02/20*
+**Publication list and early scientific achievements** - *Updated 28/02/20*
 
 I published 13 peer-reviewed research articles in international journals, including 1 Nature Physics, 1 Nature Communications, 1 Physical Review X and 3 Physical Review Letters. As of early 2020, they total 266 citations according to Scorpus, giving an h-index of 8, while Google Scholar lists 423 citations, giving an h-index of 10. Half (6) are published as 1st author, 6 without my PhD supervisor, and 1 as a senior scientist.
 
-Research articles in international peer-reviewed journals 
-1-5 = key publications, 6-14 = chronological order, 
-* = without PhD supervisor, ° = as senior scientist, 
-Citations: [Google Scholar / Scorpus]
+Research articles in international peer-reviewed journals :
+1-5 = key publications, 6-14 = chronological order.
 
 1.	T. Boulier, M. Bamba, A. Amo, C. Adrados, A. Lemaitre, E. Galopin, I. Sagnes, J.Bloch, C. Ciuti, E. Giacobino and A. Bramati
-Nature Communications 5, 3260, (2014). [61/39]
+Nature Communications 5, 3260, (2014).
 
-2.	* T. Boulier, J Maslek, M Bukov, C Bracamontes, E Magnan, S Lellouch, E Demler, N Goldman, JV Porto, 
-Phys. Rev. X 9 (1), 011047 (2019). [12/7]
+2.	T. Boulier, J Maslek, M Bukov, C Bracamontes, E Magnan, S Lellouch, E Demler, N Goldman, JV Porto, 
+Phys. Rev. X 9 (1), 011047 (2019).
 
 3.	T. Boulier, E. Cancellieri, N. D. Sangouard, Q. Glorieux, A. V. Kavokin, D. M. Whittaker, E. Giacobino and A. Bramati
-Physical Review Letters 116, 116402 (2016). [20/9]
+Physical Review Letters 116, 116402 (2016).
 
-4.	* E. A. Goldschmidt, T. Boulier, R. C. Brown, S. B. Koller, J. Young, A. V. Gorshkov, S. L. Rolston and J. V. Porto
-Physical Review Letters 116, 113001 (2016). [69/42]
+4.	E. A. Goldschmidt, T. Boulier, R. C. Brown, S. B. Koller, J. Young, A. V. Gorshkov, S. L. Rolston and J. V. Porto
+Physical Review Letters 116, 113001 (2016).
 
 5.	T. Boulier, H. Terças, D. D. Solnyshkov, Q. Glorieux, E. Giacobino, G. Malpuech and A. Bramati, 
-Scientific Reports 5, 9230 (2015). [32/19]
+Scientific Reports 5, 9230 (2015).
 ----------------------------------------------------------------------------------------------------------------------------
-6.	* D. Barredo, V. Lienhard, P. Scholl, S. de Léséleuc, T. Boulier, A. Browaeys, T. Lahaye, 
-Physical Review Letters 124, 023201 (2020). [3/0]
+6.	D. Barredo, V. Lienhard, P. Scholl, S. de Léséleuc, T. Boulier, A. Browaeys, T. Lahaye, 
+Physical Review Letters 124, 023201 (2020).
 
-7.	° * E. Magnan, J. Malsek, A. Ristelli, C. Bracamontes, T. Boulier and J. V. Porto, 
-Review of Scientific Instruments 89.7 073110 (2018). [3/1]
+7.	E. Magnan, J. Malsek, A. Ristelli, C. Bracamontes, T. Boulier and J. V. Porto, 
+Review of Scientific Instruments 89.7 073110 (2018).
 
 8.	T. Boulier, S. Pigeon, E. Cancellieri, P. Robin, E. Giacobino and A. Bramati,
-Physical Review B 98 024503 (2018). [2/1]
+Physical Review B 98 024503 (2018).
 
-9.	* J. Young, T. Boulier, E. Magnan, E. A. Goldschmidt, R. M. Wilson, S. L. Rolston, J. V. Porto and A. V. Gorshkov, 
-Physical Review A 97.2 023424 (2018). [12/7]
+9.	J. Young, T. Boulier, E. Magnan, E. A. Goldschmidt, R. M. Wilson, S. L. Rolston, J. V. Porto and A. V. Gorshkov, 
+Physical Review A 97.2 023424 (2018).
 
-10.	* T. Boulier, E. Magnan, C. Bracamontes, J. Malsek, J. Young, E. A. Goldschmidt, A. V. Gorshkov, S. L. Rolston and J. V. Porto, 
-Physical Review A 96.5, 053409 (2017). [18/9]
+10.	T. Boulier, E. Magnan, C. Bracamontes, J. Malsek, J. Young, E. A. Goldschmidt, A. V. Gorshkov, S. L. Rolston and J. V. Porto, 
+Physical Review A 96.5, 053409 (2017).
 
 11.	E. Cancellieri, T. Boulier, R. Hivet, D. Ballarini, D. Sanvitto, M. H. Szymanska, C. Ciuti, E. Giacobino and A. Bramati, 
-Physical Review B 90, 214518 (2014). [13/6]
+Physical Review B 90, 214518 (2014).
 
 12.	R. Hivet, E. Cancellieri, T. Boulier, D. Ballarini, D. Sanvitto, F. M. Marchetti, M. H. Szymanska, C. Ciuti, E. Giacobino and A. Bramati,
-Physical Review B 89, 134501 (2014). [28/19]
+Physical Review B 89, 134501 (2014).
 
 13.	R. Hivet, H. Flayac, D. D. Solnyshkov, D. Tanese, T. Boulier, D. Andreoli, E. Giacobino, J. Bloch and A. Bramati, G. Malpuech and A. Amo
-Nature Physics 8, 724–728, (2012). [140/95]
+Nature Physics 8, 724–728, (2012).
 
 Pre-prints/Recently accepted:
+
 14.	M.J. Jacquet, F. Claude, A. Maitre, T. Boulier, E. Cancellieri, C. Adrados, A. Amo, S. Pigeon, Q. Glorieux, A. Bramati and E. Giacobino,
 arXiv preprint arXiv:2002.00043 (2020).
 
