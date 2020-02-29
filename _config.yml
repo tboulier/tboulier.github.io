@@ -1,7 +1,7 @@
 # Site
 name: "Thomas Boulier, PhD"
 description: "Experimental Quantum Physicist"
-intro: "Hi, welcome! I'm a researcher in experimental quantum physics. I focus on exploring systems of many bosonic particles in strong interaction. I've worked with two types of systems: Exciton-polaritons in semiconductors, and ultra-cold atoms in optical lattices. I currently work in the team led by Antoine Browaeys, in the quantum optics group of Institut d'Optique, Palaiseau, France, on arrays of cold Rydberg atoms."
+intro: "Hi! I'm a researcher in experimental quantum physics. I focus on exploring systems of many bosonic particles in strong interaction. I'm especially interested in long-range interactions between particle and giving interactions to photons. I've worked with two types of systems: Exciton-polaritons in semiconductors and ultra-cold atoms in optical lattices, and I have a strong interest in merging techniques from these two fields. Most of my recent research was funded by the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 701034."
 meta_description: "Welcome to my page!"
 logo: 'assets/images/panda.jpg'
 me: 'assets/images/me.jpg'
@@ -20,7 +20,7 @@ authors:
     email: bouliertom@gmail.com
     #web: https://www.wowthemes.net
     #twitter: https://twitter.com/wowthemesnet
-    description: "Hi! I'm a researcher in experimental quantum physics. I focus on exploring systems of many bosonic particles in strong interaction. I've worked with two types of systems: Exciton-polaritons in semiconductors, and ultra-cold atoms in optical lattices. I currently work in the team led by Antoine Browaeys, in the quantum optics group of Institut d'Optique, Palaiseau, France, on arrays of cold Rydberg atoms."
+    description: "Hi! I'm a researcher in experimental quantum physics. I focus on exploring systems of many bosonic particles in strong interaction. I'm especially interested in long-range interactions between particle and giving interactions to photons. I've worked with two types of systems: Exciton-polaritons in semiconductors and ultra-cold atoms in optical lattices, and I have a strong interest in merging techniques from these two fields. Most of my recent research was funded by the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 701034."
 
 # Plugins
 plugins: 
