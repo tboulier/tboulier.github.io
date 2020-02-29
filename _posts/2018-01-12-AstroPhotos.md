@@ -4,7 +4,7 @@ title:  "Astrophotography"
 author: Thomas
 categories: [ Hobby, Astronomy, Photography ]
 image: assets/images/SaturnAndSatellites.jpg
-hidden: false
+hidden: true
 ---
 
 As a hobby, I also enjoy spending some night under a beautiful dark sky. 
