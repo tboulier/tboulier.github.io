@@ -19,9 +19,9 @@ How are these exotic Rydbergs similar to their atomic cousins? Can we use their 
 
 __Description:__
 
-In Copper Oxide, Rydberg states up to the principal quantum number n=25 were observed and studied. Few experiments aimed at coupling these states with light so as to create Rydberg polarions, a method that triggered a boom in cold atom research.
+In Copper Oxide, Rydberg states up to the principal quantum number n=25 were observed and studied. However, few experiments aimed at coupling these states with light so as to create Rydberg polarions, a method that triggered a boom in cold atom research.
 One of the main hindrance is a large phonon-assisted scattering background due to the crystaline matrix hosting the Rydberg excitons. A promissing approach to sidestep this issue is a two-photon excitation, actually quite similar to the EIT approach I worked with in cold atoms.
-Using my dual expertise in exciton-polariton and atomic Rydberg states, I aim to implement a new visible + THz excitation scheme that will push our knowlegde and mastery of Rydberg exciton physics.
+Using my dual expertise on exciton-polaritons + atomic Rydberg states and the savoir-faire of the Nano-THz team at LPENS, I aim to implement a new visible + THz excitation scheme that will push our knowlegde and mastery of Rydberg exciton physics.
 
 __Long-term goals:__
 
