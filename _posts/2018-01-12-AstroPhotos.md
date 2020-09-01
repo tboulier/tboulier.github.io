@@ -12,7 +12,7 @@ As a hobby, I also enjoy spending some nights under a beautiful dark sky.
 I mostly use an old 8" [Schmidt–Cassegrain](https://en.wikipedia.org/wiki/Schmidt%E2%80%93Cassegrain_telescope) telescope on a motorized German mount, a simple DSRL (Canon 650D), and some slow-learned voodoo to make pictures of my favorite objects.
 Some of my most recent picture are made with upgraded gear (astronomy-dedicated cooled CMOS camera, narrowband filters, 10" Newtonian telescope).
 
-Some of my best pictures are on my [Astrobin page](https://www.astrobin.com/users/AstroPanda/). Here are a few more:
+Some of my best pictures are on my [Astrobin page](https://www.astrobin.com/users/AstroPanda/). Here are a few example:
 
 ![Cygnus' Veil Nebula](/assets/images/Dentelle-Mosaic-Hubble.jpg "NGC6960")
 
