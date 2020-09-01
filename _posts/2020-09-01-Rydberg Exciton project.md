@@ -13,7 +13,7 @@ hidden: true
 __Introduction:__
 
 As explained in earlier posts, I worked with Rydberg states of atoms where the electron is excited to a very large orbital. This type of orbital is interesting because it is typically long-lived, posesses a large dipole moment and a large polarisability (from which stems giant rydberg-rydberg interactions).
-But Rydberg states can be found in any quantum system supporting orbitals. In particular, the orbitals of exciton in a semiconducor (electron-hole bound state) are not necessarily the ground state: some crystals show giant Rydberg states of excions.
+But Rydberg states can in principle be found in any quantum system supporting orbitals. In particular, the orbitals of exciton in a semiconducor (electron-hole bound state) are not necessarily the ground state: some crystals show giant Rydberg states of excions.
 
 How are these exotic Rydbergs similar to their atomic cousins? Can we use their large nonlinearity in a similar fashion to what is done with atoms? Can we benefit from the larger energy scales of condensed matter? These questions are at the center of my new experimental project, which I am starting at the Laboratoire de Physique de l'Ecole Normale Supérieure (LPENS) as a Junior Researcher.
 
