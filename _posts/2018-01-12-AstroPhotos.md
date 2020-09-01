@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
 
-*As a hobby, I also enjoy spending some nights under a beautiful dark sky.*
+*As a **hobby**, I also enjoy spending some nights under a beautiful dark sky.*
 
 I delight in taking (hopefully) aestetic pictures of planets and nebulae. 
 For this, I mostly use an old 8" [Schmidt–Cassegrain](https://en.wikipedia.org/wiki/Schmidt%E2%80%93Cassegrain_telescope) telescope on a motorized German mount, a simple DSRL (Canon 650D), and some slow-learned voodoo to make pictures of my favorite objects.
