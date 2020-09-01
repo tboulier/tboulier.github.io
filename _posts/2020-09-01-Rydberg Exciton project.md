@@ -5,7 +5,7 @@ author: Thomas
 categories: [ Condensed matter, Exciton physics, Strongly interacting bosons, THz spectroscopy ]
 image: assets/images/RydX.jpeg
 featured: true
-hidden: false
+hidden: true
 ---
 
 **This page is a work in progress**

@@ -4,7 +4,7 @@ title:  "Avalanche dephasing in large Rydberg systems"
 author: Thomas
 categories: [ Cold Atoms, Bosonic lattices, Rydbergs, Strongly correlated systems ]
 image: assets/images/Illustration-Rydbergs.jpg
-featured: true
+featured: false
 hidden: true
 ---
 

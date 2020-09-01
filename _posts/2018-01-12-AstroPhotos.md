@@ -4,6 +4,7 @@ title:  "Astrophotography"
 author: Thomas
 categories: [ Hobby, Astronomy, Photography ]
 image: assets/images/SaturnAndSatellites.jpg
+featured: false
 hidden: false
 ---
 
