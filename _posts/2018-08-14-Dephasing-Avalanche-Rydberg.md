@@ -5,7 +5,7 @@ author: Thomas
 categories: [ Cold Atoms, Bosonic lattices, Rydbergs, Strongly correlated systems ]
 image: assets/images/Illustration-Rydbergs.jpg
 featured: false
-hidden: true
+hidden: false
 ---
 
 Engineering complex quantum states requires controlling coherent interactions in many-body systems. Atoms with a highly excited electron, called Rydberg atoms, offer both strong and controllable interactions, due to their giant polarizablity.
